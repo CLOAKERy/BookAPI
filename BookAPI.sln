@@ -5,6 +5,10 @@ VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookAPI", "BookAPI\BookAPI.csproj", "{5DE96928-47F1-4CCA-8584-933CDF7738FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{19BD60B5-EF17-447A-A222-9D5DEDFB5FB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{018C6517-E5AC-4606-ACE3-7A7E5D550D7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{5DE96928-47F1-4CCA-8584-933CDF7738FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DE96928-47F1-4CCA-8584-933CDF7738FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DE96928-47F1-4CCA-8584-933CDF7738FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19BD60B5-EF17-447A-A222-9D5DEDFB5FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19BD60B5-EF17-447A-A222-9D5DEDFB5FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19BD60B5-EF17-447A-A222-9D5DEDFB5FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19BD60B5-EF17-447A-A222-9D5DEDFB5FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{018C6517-E5AC-4606-ACE3-7A7E5D550D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018C6517-E5AC-4606-ACE3-7A7E5D550D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018C6517-E5AC-4606-ACE3-7A7E5D550D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{018C6517-E5AC-4606-ACE3-7A7E5D550D7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
